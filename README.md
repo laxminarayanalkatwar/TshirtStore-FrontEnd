@@ -39,13 +39,16 @@
 
 **STEP 1**
 
-**LOGIN**
+**LOGIN**  
 
 login with the Credentials <br>
 **username** - one@gmail.com<br>
 **password** - 1234
 
-![Login Page]
+
+![Login Page](
+![Map](https://user-images.githubusercontent.com/92374663/155589304-de796867-cb4b-4ea1-a817-d4dade1d6759.png "Home Page")
+
 
 ![Map]
 
