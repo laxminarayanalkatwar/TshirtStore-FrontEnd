@@ -46,18 +46,19 @@ login with the Credentials <br>
 **password** - 1234
 
 
-![Login Page](https://user-images.githubusercontent.com/92374663/155589304-de796867-cb4b-4ea1-a817-d4dade1d6759.png)
-![Map](https://user-images.githubusercontent.com/92374663/155590128-67bf1e1b-9a05-4dae-9f62-71b07cd50fbf.png)
+![Login Page](https://user-images.githubusercontent.com/92374663/155590128-67bf1e1b-9a05-4dae-9f62-71b07cd50fbf.png)
 
 
-![Map]
+![Map](https://user-images.githubusercontent.com/92374663/155589304-de796867-cb4b-4ea1-a817-d4dade1d6759.png)
+
 
 
 **STEP 2**
 
 - Add Items to Cart
 
-![Chart](https://github.com/VedantS20/GroceryStoreFrontEnd/blob/main/cart.png "Charts")
+![Chart](https://user-images.githubusercontent.com/92374663/155590909-08606443-bed0-4515-91fa-846845c015fc.png)
+
 
 
 
