@@ -46,10 +46,10 @@ login with the Credentials <br>
 **password** - 1234
 
 
-![Login Page](https://user-images.githubusercontent.com/92374663/155590128-67bf1e1b-9a05-4dae-9f62-71b07cd50fbf.png)
+![Login Page](https://user-images.githubusercontent.com/92374663/155593786-b8640786-5db1-4ee6-ae61-966f8b8b6544.png)
 
 
-![Map](https://user-images.githubusercontent.com/92374663/155589304-de796867-cb4b-4ea1-a817-d4dade1d6759.png)
+![Map](https://user-images.githubusercontent.com/92374663/155593812-1816cd26-a1e4-4a02-9291-c6c0816adcd6.png)
 
 
 
