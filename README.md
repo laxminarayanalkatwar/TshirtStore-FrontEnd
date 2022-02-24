@@ -57,7 +57,7 @@ login with the Credentials <br>
 
 - Add Items to Cart
 
-![Chart](https://user-images.githubusercontent.com/92374663/155590909-08606443-bed0-4515-91fa-846845c015fc.png)
+![Chart](https://user-images.githubusercontent.com/92374663/155593300-bf1e10b9-e762-42dd-a5b5-ccaa0beec511.png)
 
 
 
